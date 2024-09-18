@@ -1,0 +1,17 @@
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.vbproj.AssemblyReference.cache
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya_finder.Form1.resources
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.vbproj.GenerateResource.cache
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.AssemblyInfoInputs.cache
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.AssemblyInfo.vb
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.vbproj.CoreCompileInputs.cache
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\bin\Debug\net6.0-windows\Kopya finder.exe
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\bin\Debug\net6.0-windows\Kopya finder.deps.json
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\bin\Debug\net6.0-windows\Kopya finder.runtimeconfig.json
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\bin\Debug\net6.0-windows\Kopya finder.dll
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\bin\Debug\net6.0-windows\Kopya finder.pdb
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.dll
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\refint\Kopya finder.dll
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.pdb
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\Kopya finder.genruntimeconfig.cache
+C:\Users\Emiran\source\repos\Kopya finder\Kopya finder\obj\Debug\net6.0-windows\ref\Kopya finder.dll
